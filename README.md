@@ -1,1 +1,2 @@
 # PR-Final
+This is the final project **Learning To Generate Rich-content Images Conditioned On Semantic Labels** of EE666000 Pattern Recognition in 2016 Fall in NTHU. The code is written in Tensorflow, and experiments are conducted on 3 different datasets, [MNIST](http://yann.lecun.com/exdb/mnist/), [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html), and [Place2](http://places2.csail.mit.edu/). The report and poster are included in this repository.
